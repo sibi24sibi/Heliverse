@@ -2,7 +2,7 @@
 function Intro(){
     return(
         <>
-        <section className='INTRO flex justify-between   max-w-6xl '>
+        <section className='INTRO flex justify-between px-16  max-w-6xl '>
             <div className="div bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 bg-clip-text text-transparent text-l w-1/12  ">
                 <p className="bg-clip-text">Transform Your Website </p>
                 <p className="text-gray-100 mt-3">With Motion Art Effect</p>

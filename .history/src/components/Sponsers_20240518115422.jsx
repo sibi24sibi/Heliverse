@@ -5,9 +5,9 @@ import comp3 from '../assets/motionarteffect-img1.png'
 function Sponser(){
     return(
         <>
-        <section className='SPONSER text-slate-100 m-6  max-w-6xl'>
-            <p className=" text-center text-3xl m-10">Trusted by thousands of users around the world</p>  
-            <div className="div flex justify-around gap-36">
+        <section className='SPONSER text-slate-100 m-6'>
+            <p className=" text-center text-3xl m-5">Trusted by thousands of users around the world</p>  
+            <div className="div flex justify-around">
                 <div className="comp1 flex ">
                     <div className="div m-5">
                         <img src={comp1} alt="comp1" className="comp1"/>

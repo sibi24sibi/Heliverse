@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-    <div className=" flex flex-col justify-center items-center gap-7  ">
+    <div className="flex flex-col justify-center items-center gap-7 ">
       <Header></Header>
       <Intro></Intro>
       <Sponsers></Sponsers>

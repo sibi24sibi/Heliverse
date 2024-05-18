@@ -4,8 +4,8 @@ function Purchase(){
         <>
         <section className='Purchase flex justify-between max-w-6xl'>
             <div className="text-and-btn text-slate-100">
-                <p className='text-4xl mb-7'>Turn Your Cursor Into A Colorful Magic Wand & Charm Your Visitors</p>
-                <p className='mb-5'>Motion Art for Elementor is a groundbreaking plugin that empowers you to effortlessly infuse your website with visually stunning motion art elements.</p>
+                <p className='text-4xl'>Turn Your Cursor Into A Colorful Magic Wand & Charm Your Visitors</p>
+                <p>Motion Art for Elementor is a groundbreaking plugin that empowers you to effortlessly infuse your website with visually stunning motion art elements.</p>
             <button className='p-3 px-8 rounded-lg bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400  text-slate-900 '>
                  Purchase here
             </button>

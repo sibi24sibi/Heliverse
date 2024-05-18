@@ -8,7 +8,7 @@ function Browser(){
 
             <div className="div text-slate-100 p-10 px-5 md:p-16  md:px-64">
                 <p className='font-bold md:text-xl m-3'>Supported by All Popular Browsers</p>
-                <p className='text-base m-8 md:m-3  text-gray-500'>Rest assured, Motion Art is designed to be compatible with all major web browsers.</p>
+                <p className='text-base mb-16 md:m-3  text-gray-500 '>Rest assured, Motion Art is designed to be compatible with all major web browsers.</p>
                 <img className='mx-auto' src={ImgBrowser} alt="" srcset="" />
             </div>
         

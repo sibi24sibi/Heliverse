@@ -15,7 +15,7 @@ function Pages(){
             </div>
             <div className="div1 md:p-7 relative md:top-16 bg-[#0F0920] rounded-2xl drop-shadow-md md:w-1/2 w-5/6 mx-auto">
                 <h1 className="text-xl m-3 p-3">Apply On Pages</h1>
-                <p className='m-3 px-5  text-gray-500'>Take your website to new heights with Motion Art for Elementor. Embrace the power of motion and animation.</p>
+                <p className='m-3 px-5'>Take your website to new heights with Motion Art for Elementor. Embrace the power of motion and animation.</p>
                 <img src={ForPage} alt="" srcset="" />
             </div>
         </div>

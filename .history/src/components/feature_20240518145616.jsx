@@ -12,7 +12,7 @@ function Feature(){
                 <div className="div  flex flex-row justify-center items-center">
                     <div className="div md:w-2/5 w-5/6">
                         <h1 className='font-bold text-3xl p-4'>An All-Round Plugin With Powerful Features</h1>
-                        <p className='text-slate-500'>Whether you're a seasoned web designer or just starting out, Motion Art for Elementor seamlessly integrates with the Elementor platform, providing you with a seamless and intuitive experience.</p>
+                        <p>Whether you're a seasoned web designer or just starting out, Motion Art for Elementor seamlessly integrates with the Elementor platform, providing you with a seamless and intuitive experience.</p>
                     </div>
                 </div>
                 <div className="feature py-16 md:px-0 px-10">

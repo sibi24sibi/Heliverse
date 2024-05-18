@@ -3,7 +3,7 @@
 function Footer(){
     return(
         <>
-        <section className='FOOTER text-neutral-700 flex md:flex-row  flex-col-reverse  md:justify-between bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 min-w-full p-3 '>
+        <section className='FOOTER text-gray-800 flex md:flex-row  flex-col-reverse  md:justify-between bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 min-w-full p-3 '>
 
         <div className="div">
         © 2023 Copywrite. All rights reserved by QodeMatrix

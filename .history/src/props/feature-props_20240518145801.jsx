@@ -6,7 +6,7 @@ function FeatureProps(props) {
                     <img className='' src={props.F_Logo} alt="" srcset="" />
                     <div className="div p-12">
                     <h1 className='font-bold'>{props.F_Title}</h1>
-                    <p className='text-gray-500'>{props.F_Description}</p>
+                    <p className='text-gray-800'>{props.F_Description}</p>
                     </div>
         </div>
         </>

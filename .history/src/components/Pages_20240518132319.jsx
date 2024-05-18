@@ -1,0 +1,30 @@
+import ForSection from '../assets/motionarteffect-img10.png'
+import ForPage from '../assets/motionarteffect-img11.png'
+
+function Pages(){
+    return(
+        <>
+        <section className='PAGES max-w-6xl'>
+            <p className="text-3xl text-slate-100 text-center m-16">Apply On Any Section Or Enable For Whole Page</p>
+        
+        <div className="div  text-slate-100  flex md:flex-row flex-col gap-10 justify-center "> 
+            <div className="div1 p-7 bg-[#0F0920] rounded-2xl drop-shadow-md md:w-1/2 w-full">
+                <p className="text-xl m-3">Apply On Section</p>
+                <p className='m-3'>Apply on section is a game-changer, offering an unparalleled way to manage applications directly from your website. </p>
+                <img src={ForSection} alt="" srcset="" />
+            </div>
+            <div className="div1 p-7 bg-[#0F0920] rounded-2xl drop-shadow-md md:w-1/2 w-full px-32">
+                <p className="text-xl m-3">Apply On Pages</p>
+                <p className='m-3'>Take your website to new heights with Motion Art for Elementor. Embrace the power of motion and animation.</p>
+                <img src={ForPage} alt="" srcset="" />
+            </div>
+        </div>
+        </section>
+        
+            
+        </>
+    )
+}
+
+
+export default Pages

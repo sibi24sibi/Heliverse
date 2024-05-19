@@ -6,7 +6,7 @@ function Purchase(){
             <div className="text-and-btn text-slate-100">
                 <h1 className='text-4xl mb-7'>Turn Your Cursor Into A Colorful Magic Wand & Charm Your Visitors</h1>
                 <p className='mb-5 text-slate-500'>Motion Art for Elementor is a groundbreaking plugin that empowers you to effortlessly infuse your website with visually stunning motion art elements.</p>
-            <button className='p-3 px-8  rounded-lg bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400  text-slate-900 '>
+            <button className='p-3 px-8  rounded-lg bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400  text-slate-900 hover:bg-white '>
                  Purchase here
             </button>
             </div>

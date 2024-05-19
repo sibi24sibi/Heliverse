@@ -20,7 +20,7 @@ function App() {
     <>
     <canvas></canvas>
     <main>
-      <div className=" flex flex-col justify-center items-center gap-16  ">
+      <div className=" ">
         <Header></Header>
         <Intro></Intro>
         <Sponsers></Sponsers>

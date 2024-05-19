@@ -9,8 +9,8 @@ function Footer(){
         © Made by sibi chakraborthy
         </div>
         <div className="div flex flex-row-reverse gap-5  list-none md:text-left justify-center">
-            <a href="https://www.linkedin.com/in/sibi-chakraborthy-v/"><li>Contact</li></a>
-            <a href="mailto:sibi24sibi.2@gmail.com"><li >Mail</li></a>
+            <li href="https://www.linkedin.com/in/sibi-chakraborthy-v/">Contact</li>
+            <li href="mailto:sibi24sibi.2@gmail.com">Mail</li>
         </div>
         </section>
         
